@@ -1,0 +1,6 @@
+SKILL.md
+references/base_template.docx
+references/rules.md
+scripts/build_contract.py
+examples/order.example.json
+manifest.txt

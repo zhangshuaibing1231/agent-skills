@@ -1,0 +1,12 @@
+interface:
+  display_name: kewayou order confirmation
+  short_description: 根据营业执照图片、手机号、订单编号、软件/硬件金额和硬件清单，生成《客无忧产品及服务订购确认单》DOCX，并输出固定格式的微信确认话术。适用于客无忧销售签单流程。
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
